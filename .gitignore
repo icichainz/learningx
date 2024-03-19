@@ -1,0 +1,26 @@
+# Python
+*.pyc
+__pycache__/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.pydevproject
+
+# Dependency Management
+pip-lock.txt
+pipenv.lock
+poetry.lock
+
+# Environment
+.env
+
+# Miscellaneous
+*.swp
+*~
+.DS_Store
